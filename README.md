@@ -1,7 +1,8 @@
 # MyFirstRepo
 
-## 1
+## declare array
 
-### 1.1
-
+```
+arr = [1,2,3,4]
+```
 #### 1.1.1

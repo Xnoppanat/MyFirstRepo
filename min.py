@@ -1,4 +1,4 @@
 arr = [1,2,3,4,5,6,7,8,9,10]
-minv = min(arr);
-print(minv)
+result = min(arr);
+print(result)
 

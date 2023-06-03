@@ -1,3 +1,3 @@
 arr = [1,2,3,4,5,6,7,8,9,10]
-maxv = max(arr);
-print(maxv)
+result = max(arr);
+print(result)
